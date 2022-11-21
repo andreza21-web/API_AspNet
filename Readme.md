@@ -1,5 +1,5 @@
 
-# CRUD in Asp Net cORE
+# CRUD in Asp Net CORE
 
 Uma aplicação CRUD (Create, Read, Update and Delete).
 
